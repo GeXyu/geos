@@ -1,0 +1,2 @@
+D:\os_lab\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc libos.a  CMakeFiles/os.dir/library.c.obj
+D:\os_lab\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe libos.a
